@@ -18,9 +18,9 @@ Este projeto corresponde à **Atividade 9** da disciplina de **Desenvolvimento W
 As principais tags do **HTML5** utilizadas nesta atividade foram:  
 
 ```html
-<ul>
-<ol>
-<li>
+<nav>    <ul>
+<li>     <a>
+<aside>  <section>
 ```
 ## 📂 Atividade
 
